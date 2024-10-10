@@ -1,0 +1,216 @@
+RECIPE BEGIN
+
+RECIPE NAME
+Tiger Butter Candy
+RECIPE URL
+https://butterwithasideofbread.com/tiger-butter-fudge/
+----------------------------------------
+INGREDIENT BEGIN
+
+INGREDIENT NAME
+Vanilla chips
+INGREDIENT UNIT
+oz
+INGREDIENT AMOUNT
+11
+
+INGREDIENT END
+----------------------------------------
+INGREDIENT BEGIN
+
+INGREDIENT NAME
+Creamy peanut butter
+INGREDIENT UNIT
+cups
+INGREDIENT AMOUNT
+0.5
+
+INGREDIENT END
+----------------------------------------
+INGREDIENT BEGIN
+
+INGREDIENT NAME
+Semi-sweet chocolate chips
+INGREDIENT UNIT
+cups
+INGREDIENT AMOUNT
+0.5
+
+INGREDIENT END
+----------------------------------------
+
+RECIPE END
+--------------------------------------------------------------------------------
+RECIPE BEGIN
+
+RECIPE NAME
+White Chocolate Peppermint Pretzels
+RECIPE URL
+https://www.twopeasandtheirpod.com/white-chocolate-peppermint-pretzels/
+----------------------------------------
+INGREDIENT BEGIN
+
+INGREDIENT NAME
+Vanilla chips
+INGREDIENT UNIT
+oz
+INGREDIENT AMOUNT
+11
+
+INGREDIENT END
+----------------------------------------
+INGREDIENT BEGIN
+
+INGREDIENT NAME
+Creamy peanut butter
+INGREDIENT UNIT
+cups
+INGREDIENT AMOUNT
+0.5
+
+INGREDIENT END
+----------------------------------------
+INGREDIENT BEGIN
+
+INGREDIENT NAME
+Semi-sweet chocolate chips
+INGREDIENT UNIT
+cups
+INGREDIENT AMOUNT
+0.5
+
+INGREDIENT END
+----------------------------------------
+INGREDIENT BEGIN
+
+INGREDIENT NAME
+Pretzel
+INGREDIENT UNIT
+chips
+INGREDIENT AMOUNT
+35
+
+INGREDIENT END
+----------------------------------------
+INGREDIENT BEGIN
+
+INGREDIENT NAME
+White chocolate melting wafers
+INGREDIENT UNIT
+oz
+INGREDIENT AMOUNT
+12
+
+INGREDIENT END
+----------------------------------------
+INGREDIENT BEGIN
+
+INGREDIENT NAME
+Crushed candy canes
+INGREDIENT UNIT
+cups
+INGREDIENT AMOUNT
+0.5
+
+INGREDIENT END
+----------------------------------------
+
+RECIPE END
+--------------------------------------------------------------------------------
+RECIPE BEGIN
+
+RECIPE NAME
+Pie for breakfast shake
+RECIPE URL
+https://www.allrecipes.com/recipe/235558/pie-for-breakfast-shake/
+----------------------------------------
+INGREDIENT BEGIN
+
+INGREDIENT NAME
+Frozen strawberries
+INGREDIENT UNIT
+Cups
+INGREDIENT AMOUNT
+0.75
+
+INGREDIENT END
+----------------------------------------
+INGREDIENT BEGIN
+
+INGREDIENT NAME
+Vanilla coconut milk
+INGREDIENT UNIT
+Cup
+INGREDIENT AMOUNT
+0.5
+
+INGREDIENT END
+----------------------------------------
+INGREDIENT BEGIN
+
+INGREDIENT NAME
+Greek yogurt
+INGREDIENT UNIT
+Cup
+INGREDIENT AMOUNT
+0.5
+
+INGREDIENT END
+----------------------------------------
+INGREDIENT BEGIN
+
+INGREDIENT NAME
+Flax seed meal
+INGREDIENT UNIT
+Tablespoon
+INGREDIENT AMOUNT
+1
+
+INGREDIENT END
+----------------------------------------
+INGREDIENT BEGIN
+
+INGREDIENT NAME
+Almond butter
+INGREDIENT UNIT
+Tablespoon
+INGREDIENT AMOUNT
+1
+
+INGREDIENT END
+----------------------------------------
+INGREDIENT BEGIN
+
+INGREDIENT NAME
+Honey
+INGREDIENT UNIT
+Teaspoon
+INGREDIENT AMOUNT
+1
+
+INGREDIENT END
+----------------------------------------
+INGREDIENT BEGIN
+
+INGREDIENT NAME
+Vanilla extract
+INGREDIENT UNIT
+Teaspoon
+INGREDIENT AMOUNT
+0.5
+
+INGREDIENT END
+----------------------------------------
+
+RECIPE END
+--------------------------------------------------------------------------------
+RECIPE BEGIN
+
+RECIPE NAME
+Test
+RECIPE URL
+Testur,
+----------------------------------------
+
+RECIPE END
+--------------------------------------------------------------------------------
